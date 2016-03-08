@@ -1,0 +1,26 @@
+<apex:page sidebar="false">
+  <!-- Begin Default Content REMOVE THIS -->
+  <b>Getting Started Here !!!!!</b>
+  <!-- End Default Content REMOVE THIS -->
+    
+    <br /><br/><br/>
+    <html>
+        <body>
+            <table width="100%" cellspacing="0" cellpadding="0" border="1">
+                <tr>
+                <td style="padding-left:10px;">
+                    <br/><br/>
+                      Companies House Connector App is a managed package app. This app allows user to search information for any UK based company using Companies House Open API's. The response is then displayed in visualforce pages. In order to edit the code, you can download the source code available in a Zip folder with all Pages/Classes/Components. <br /><br/>
+                    
+                    To download code go to <b>Setup->Static Resources</b> and click "<b>Companies_House_App_Source_Code</b>". Click on "View File" to start downloading the source code or download <b><a href="{!$Resource.C_House__Companies_House_App_Source_Code}">Source Code</a></b> here. Unzip the file and deploy it in your desired org using Force.com IDE/Eclipse/Sublime etc.
+                    <br/><br/>
+  					Unzip the file and open the word document "Companies-House-App-Getting-Started-Here-Guide-v.1.0.doc. Follow the instructions in the document.
+                    <br/><br/>
+                    </td>
+                </tr>
+                
+            </table>
+        </body>
+    </html>
+    
+</apex:page>
